@@ -1,67 +1,41 @@
+# Denis (greenDG)
 
-# Hola, soy Denis 👋
+Backend Engineer especializado en sistemas financieros, blockchain y automatización.
 
-Desarrollador backend enfocado en blockchain, fintech y sistemas en tiempo real.
+Mi trabajo suele girar alrededor de APIs, microservicios, procesamiento de eventos, WebSockets, bases de datos y automatización de procesos.
 
-Disfruto construir APIs, automatizar procesos, trabajar con blockchain y diseñar sistemas que procesan información en tiempo real.
+## Tecnologías principales
 
-## 🛠 Tecnologías
-
-### Backend
-
+* TypeScript
 * NestJS
 * Node.js
-* TypeScript
 * Python
-* Express
-* REST APIs
-* WebSockets
-
-### Bases de Datos
-
 * MongoDB
+* PostgreSQL
 * Redis
-* MySQL
-
-### Blockchain
-
-* Solidity
-* Ethers.js
-* BNB Smart Chain
-* Smart Contracts
-* Wallet Infrastructure
-* DEX Integrations
-
-### Infraestructura
-
 * Docker
-* Linux
-* PM2
-* Nginx
-* GitHub Actions
 
-## 🚀 Intereses
+## Experiencia
 
-* Blockchain
-* Arquitectura Backend
-* FinTech
-* Sistemas Distribuidos
-* Automatización
-* Trading Systems
-* Infraestructura
-
-## 📌 Proyectos Destacados
-
-* Smart Wallet Platform
-* Herramientas de monitoreo blockchain
+* Plataformas FinTech y Crypto
+* Wallets y monitoreo blockchain
+* Sistemas de trading automatizado
+* Microservicios y arquitecturas distribuidas
 * Bots y automatización
-* Integraciones con exchanges y DEX
-* Sistemas de eventos en tiempo real
+* Integraciones con APIs externas
 
-## 🎯 Actualmente
+## Proyectos destacados
 
-Profundizando en arquitectura de software, blockchain y sistemas escalables.
+* SwapBits
+* Bank Core
+* guard-nest
+* Trading Margin
+* ADO Ecommerce
 
----
+## Intereses
 
-> Construyo cosas, las rompo, descubro por qué se rompieron y vuelvo a construirlas mejor.
+* Arquitectura Backend
+* Sistemas Distribuidos
+* Blockchain
+* Automatización
+* Inteligencia Artificial aplicada a productos reales
