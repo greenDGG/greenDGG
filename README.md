@@ -17,13 +17,14 @@ Escribo bots. Muchos. Discord, Instagram, WhatsApp, trading, juegos, automatizac
 ## Proyectos destacados
 
 ### [Fluxa](https://github.com/greenDGG/dex-wallet-platform) — Crypto Wallet + Swaps
-Billetera crypto con integración DEX (PancakeSwap), notificaciones push en tiempo real y autenticación 2FA.
+Billetera crypto mobile con integración DEX (PancakeSwap), notificaciones push y 2FA.
 - **Backend:** NestJS 11, MongoDB, ethers.js v6, Web3 v4
 - **DEX:** PancakeSwap SDK para swaps en BSC
 - **Tiempo real:** Socket.IO para notificaciones de transacciones
 - **Push:** Firebase Cloud Messaging (FCM)
-- **Seguridad:** Speakeasy 2FA, cifrado de claves
-- **Frontend:** React 19, TypeScript, TailwindCSS
+- **Seguridad:** Speakeasy 2FA, cifrado de claves, biometría
+- **Mobile:** Flutter con Provider, QR scanner, secure storage
+- **Contract:** MiniWalletV2.sol (auto-forwarding de fondos)
 - **Stack completo.** Incluye tests unitarios y E2E.
 
 ### [Bank Core](https://github.com/greenDGG/bank-core-platform) — Microservicios Bancarios
